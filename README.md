@@ -11,6 +11,8 @@
   <a href="tel:+919311372005"><img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contact"/></a>
 </p>
 
+> 🔄 **Plot twist:** This is my new GitHub account! Lost my old one in an epic battle with a rogue cup of coffee and a very determined cat. Long story... ☕🐱💻
+
 ## 🌈 About Me
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
@@ -70,7 +72,7 @@ Computer Science & Engineering student at **Maharaja Surajmal Institute Of Techn
 - Python automation reducing workflow time by 70%
 - Implemented technical infrastructure reaching 100,000+ monthly visitors
 
-### 💫 PR and Sponsorship Head | Geek Room
+### 💫 Founding Member | Geek Room
 - Grew technical community to 8,000+ members
 - Secured $15K+ in tech sponsorships
 - Orchestrated 15+ technical workshops with 90% participant satisfaction
