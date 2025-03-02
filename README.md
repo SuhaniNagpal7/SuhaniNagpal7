@@ -65,41 +65,46 @@ Computer Science & Engineering student at **Maharaja Surajmal Institute Of Techn
 
 ## 🔥 Experience
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suhaningpl&theme=radical&no-frame=false&no-bg=true&margin-w=15&margin-h=15&column=3&row=1" alt="GitHub Trophies"/>
-</div>
-
 ### 🌟 Technical Operations Lead | GenAI Summit 2024
 - Full-stack platform with 99.9% uptime handling 50,000+ API requests
 - Python automation reducing workflow time by 70%
+- Implemented technical infrastructure reaching 100,000+ monthly visitors
 
 ### 💫 PR and Sponsorship Head | Geek Room
 - Grew technical community to 8,000+ members
 - Secured $15K+ in tech sponsorships
+- Orchestrated 15+ technical workshops with 90% participant satisfaction
 
 ### 🔍 Editorial Committee Lead | IEEE MSIT
 - Technical documentation with Git and optimized workflows
 - 30% reduction in publication time for technical articles
+- Improved content engagement by 45% across 25,000+ views
 
-## 📊 GitHub Stats
+## 💡 What I Do
+
+```javascript
+const codingLife = () => {
+  const skills = ["Full Stack Development", "UI/UX Design", "Blockchain", "Smart Contracts"];
+  const tools = ["React", "Node.js", "Tailwind CSS", "Web3.js", "Solidity"];
+  const passions = ["Building innovative solutions", "Contributing to open source", "Learning new technologies"];
+  
+  return {
+    code: () => "Building digital experiences one line at a time",
+    learn: () => "Always expanding my tech horizons",
+    create: () => "Turning ideas into reality through code"
+  };
+};
+```
+
+## 🔮 Let's Connect!
+
+<div align="center">
+  <p>✨ <i>I'm always open to interesting projects and collaboration opportunities!</i> ✨</p>
+  <a href="https://linkedin.com/in/suhani-nagpal072/">
+    <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+  </a>
+</div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhaningpl&theme=radical&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhaningpl&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhaningpl&layout=compact&theme=radical&hide_border=false" alt="Top Languages" height="160"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=suhaningpl&label=Profile%20views&color=ff69b4&style=flat" alt="Profile Views"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<p align="center">✨ <i>Building digital experiences that inspire, one line of code at a time.</i> ✨</p>
